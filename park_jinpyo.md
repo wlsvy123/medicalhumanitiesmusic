@@ -1,9 +1,10 @@
 ---
-music:Symphony No. 9 in D minor, Op. 125 "Choral" (교향곡 9번 ‘합창’)
-작곡가:루트비히 판 베토벤 
-year: 2008
-gerete:drama
+music:Symphony No. 9 in D minor, Op. 125 "Choral" 
+Composer: Ludwig van Beethoven
+Year: 2008
+Genre: Drama
 ---
 
-# 베토벤 바이러스 (Beethoven Virus)
-베토벤바이러스에서 음악은 단순한 배경이 아니라, 질병과 장애를 섬세하게 드러내는 매개체로 사용됩니다. 주인공이 청력을 점차 잃어가면서도 지휘를 포기하지 않는 장면들은, 음악이 그의 고통과 두려움을 오히려 더 진하게 전달해줍니다. 소리를 제대로 들을 수 없는 상황에서도 마음으로 음악을 느끼려는 노력은, 장애를 극복하려는 인간적인 의지를 깊이 있게 보여줍니다. 음악은 주인공의 상처를 숨기는 것이 아니라, 그 상처를 더 진실하게 드러내는 역할을 합니다. 덕분에 시청자는 단순히 장애를 ‘불행’으로 소비하지 않고, 그 안의 복잡한 감정과 성장을 공감할 수 있게 됩니다. 작품 속 음악은 장애를 이겨내는 수단이라기보다는, 장애와 함께 살아가는 방법을 함께 고민하게 하는 힘을 가집니다. 이러한 표현 방식이 드라마에 더 깊은 울림을 주었다고 생각합니다.
+Beethoven Virus
+
+In Beethoven Virus, music is not just a background element but a medium that delicately expresses illness and disability. Scenes where the protagonist continues to conduct despite gradually losing his hearing show how music powerfully conveys his pain and fear. His effort to feel music with his heart, even when he cannot hear it properly, deeply reflects the human will to overcome challenges. Music does not hide the protagonist’s wounds but reveals them more honestly. Because of this, viewers are encouraged not to see disability merely as misfortune, but to empathize with the complex emotions and personal growth it brings. In this drama, music is not a tool to overcome disability, but a force that helps reflect on how to live with it. This way of expression adds a deeper resonance to the story.
